@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-float sub(float a, float b)
+float div(float a, float b)
 {
     return a/b;
 }

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-float sub(float a, float b)
+float mul(float a, float b)
 {
     return a*b;
 }
